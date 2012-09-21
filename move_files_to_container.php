@@ -75,7 +75,7 @@ echo '<h3>All done!  '.$count.' files moved to the <em>'.$container_name.'</em> 
 echo '</body>'."\n";
 echo '</html>';
 
-// jiggle the hendle
+// jiggle the handle
 flush();
 
 // all done!  Yay!  See, that wasn't so bad.

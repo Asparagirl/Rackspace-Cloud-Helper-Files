@@ -1,0 +1,16 @@
+==Rackspace Cloud Helper Files==
+
+*Description:*
+A collection of little helpful code snippets for dealing with RackSpace Cloud
+
+*Requirements:*
+Varies from file to file, but generally PHP, CURL, PHP5-CURL, PECL, and of course the Rackspace Cloud Files PHP binding, which you can get from GitHub
+
+*Originally Released:*
+September 20, 2012
+
+*Credits:*
+Written by Brooke Schreier Ganz (asparagirl -at- dca -dot- net / Twitter: @Asparagirl).  Some of the thumbnail generation script is based on other freely available code.
+
+*License:*
+Freedom Isn't Free, but these files are.  Use them in good health, as my grandma would say.
